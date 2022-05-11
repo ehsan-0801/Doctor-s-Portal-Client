@@ -1,8 +1,8 @@
 import React from 'react';
 import Service from '../Service/Service';
-import img1 from '../../assets/images/fluoride.png'
-import img2 from '../../assets/images/cavity.png'
-import img3 from '../../assets/images/whitening.png'
+import img1 from '../../../assets/images/fluoride.png'
+import img2 from '../../../assets/images/cavity.png'
+import img3 from '../../../assets/images/whitening.png'
 import ServicesTerms from '../ServicesTerms/ServicesTerms';
 const Services = () => {
     const serviceTitle1 = `Fluoride Treatment`;
